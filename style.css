@@ -53,22 +53,25 @@ section img {
   margin: 10px 0;
 }
 
-/* Equipe */
-#equipe-container, .equipe {
+
+.equipe {
   display: flex;
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
 }
 
-/* Fotos da equipe (menores, redondas) */
-.equipe img, #equipe-container img {
+.membro {
+  text-align: center;
+  width: 180px;
+}
+
+.membro img {
   width: 150px;
   height: 150px;
   object-fit: cover;
   border-radius: 50%;
 }
-
 /* Formulário */
 form {
   display: flex;
