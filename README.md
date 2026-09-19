@@ -7,8 +7,8 @@ Sobre o projeto
 A VitaCare é uma página web institucional desenvolvida para uma clínica integrada de saúde, apresentando informações sobre a clínica e seus serviços.
 
 Tecnologias utilizadas
-HTML5
-CSS3
+HTML
+CSS
 Git e GitHub
 GitHub Pages
 Como executar
